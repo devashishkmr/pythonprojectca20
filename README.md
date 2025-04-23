@@ -28,3 +28,4 @@ This workspace helps organize your development environment in VS Code. It suppor
 ## 📌 Note
 
 This workspace file is currently empty. Make sure to add your folders and save the configuration.
+done
